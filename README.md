@@ -1,7 +1,7 @@
 # Ahmadinejad Sulaiman Putra
 
 <p align="center">
-  Builder focused on applied AI, research tooling, and practical software that turns messy information into usable systems.
+  Building applied AI tools, research workflows, and practical software with a bias toward clarity, usefulness, and execution.
 </p>
 
 <p align="center">
@@ -10,12 +10,21 @@
   <span>Indonesia</span>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-1f5f5b?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Streamlit-1f5f5b?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/FastAPI-1f5f5b?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1f5f5b?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-1f5f5b?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/OpenAI-1f5f5b?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+</p>
+
 ---
 
 ## About
 
 I build software at the intersection of research, automation, and real-world utility.
-Most of my work leans toward tools that help people move from raw data to clearer decisions, better workflows, or more useful products.
+Most of my work is aimed at turning raw information into tools that help people think better, move faster, and ship more confidently.
 
 I like projects that involve:
 
@@ -25,30 +34,30 @@ I like projects that involve:
 - product experimentation
 - small systems with sharp practical value
 
-## Current Direction
+## Now
 
-Right now I am especially interested in:
+Right now I am focused on:
 
-- turning large information sources into usable insight
-- building interfaces that feel calm, clear, and purposeful
-- pairing technical experimentation with product thinking
-- shipping working tools instead of leaving ideas as drafts
+- building research and information tools that produce usable outputs
+- shaping interfaces that feel calm, direct, and intentional
+- combining product thinking with fast technical execution
+- turning prototypes into working software that people can actually use
 
 ## Selected Projects
 
 ### [ScholarScout](https://github.com/neej4/ScholarScout)
-Papers in, ideas out. A project built around generating research, product, and feature ideas from large-scale academic literature.
+Research-to-ideas tooling built to generate product, feature, and exploration directions from large-scale academic literature.
 
 ### [pddikti-scraper](https://github.com/neej4/pddikti-scraper)
-A Streamlit-based utility for collecting, filtering, deduplicating, and exporting public PDDikti student search results from NIM patterns.
+A focused data utility for collecting, filtering, deduplicating, and exporting public PDDikti student search results from NIM patterns.
 
 ### [worldline](https://github.com/neej4/worldline)
-An experimental build space for ideas around product systems, interfaces, and implementation.
+An experimental build space for interfaces, product systems, and implementation ideas.
 
 ### [eureka](https://github.com/neej4/eureka)
-A place for exploratory work, iteration, and problem-solving across software ideas.
+A project space for exploration, iteration, and solving software problems in motion.
 
-## Working Style
+## How I Work
 
 I care about software that is:
 
@@ -56,6 +65,12 @@ I care about software that is:
 - technically solid without becoming overbuilt
 - clear enough for other people to extend
 - grounded in actual user needs
+
+## Open To
+
+- thoughtful collaboration on AI tools and research systems
+- useful software ideas with a strong practical angle
+- interesting problems in automation, workflows, and developer tooling
 
 ## GitHub Snapshot
 
@@ -66,10 +81,3 @@ I care about software that is:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neej4&layout=compact&hide_border=true&title_color=1f5f5b&text_color=2b2b2b&bg_color=00000000" alt="Top languages" />
 </p>
-
-## Open To
-
-- thoughtful collaboration
-- interesting research or product ideas
-- useful tooling projects
-- building things that deserve to exist
