@@ -1,64 +1,44 @@
 # Ahmadinejad Sulaiman Putra
 
 <p align="center">
-  I build software, test ideas, and spend a lot of time turning rough concepts into things people can actually use.
+  I build useful software from messy inputs: papers, public data, rough ideas, and unfinished workflows.
 </p>
 
 <p align="center">
-  <a href="https://github.com/neej4">GitHub</a> |
-  <a href="https://github.com/neej4?tab=repositories">Projects</a> |
+  <a href="https://github.com/neej4?tab=repositories">Repositories</a> |
+  <a href="https://github.com/neej4/ScholarScout">ScholarScout</a> |
+  <a href="https://github.com/neej4/pddikti-scraper">pddikti-scraper</a> |
   <span>Indonesia</span>
 </p>
 
 ---
 
-## About
+I like building things that start with a vague problem and end with a tool someone can actually use.
 
-Most of what I make sits somewhere between software, research, automation, and product experiments.
-I like tools that start from a real mess, data, documents, workflows, half-formed ideas, and make them a little more usable.
+That usually means work around applied AI, research workflows, automation, internal tools, and product ideas that are practical enough to survive contact with real users.
 
-I usually enjoy work that involves:
+Lately, that has looked like:
 
-- applied AI
-- data and research pipelines
-- developer tools
-- internal tools
-- product ideas that are practical enough to ship
+- building [ScholarScout](https://github.com/neej4/ScholarScout), a project that turns academic papers into directions for research, product, and feature ideas
+- building [pddikti-scraper](https://github.com/neej4/pddikti-scraper), a utility for collecting and cleaning public PDDikti student search results from NIM patterns
+- using repos like [worldline](https://github.com/neej4/worldline) and [eureka](https://github.com/neej4/eureka) as places to test product systems, interface ideas, and implementations while they are still taking shape
 
-## Now
+## What I Care About
 
-Right now I am focused on:
+- software that is useful before it is flashy
+- systems that stay clear even when the underlying problem is messy
+- technical work that does not collapse into overengineering
+- ideas that can move from prototype to something real
 
-- research and information tools
-- AI-assisted workflows
-- simple interfaces for messy systems
-- getting more projects into a state that feels finished, not just promising
+## What You Will Find Here
 
-## Selected Projects
-
-### [ScholarScout](https://github.com/neej4/ScholarScout)
-A project around turning academic papers into directions for research, product, and feature ideas.
-
-### [pddikti-scraper](https://github.com/neej4/pddikti-scraper)
-A small utility for collecting and cleaning public PDDikti student search results from NIM patterns.
-
-### [worldline](https://github.com/neej4/worldline)
-An experimental space for interface and product system ideas.
-
-### [eureka](https://github.com/neej4/eureka)
-A place for exploration, iteration, and building things out while the idea is still moving.
-
-## How I Work
-
-I care about software that feels:
-
-- useful before it is flashy
-- technically solid without being overbuilt
-- clear enough for other people to extend
-- grounded in actual user needs
+- experiments that turn information into something actionable
+- tools built around research, automation, and decision support
+- small products and utilities with a strong practical angle
+- work in progress that is trying to become finished work
 
 ## Open To
 
-- collaborations around AI tools, research systems, and internal tools
-- useful product ideas with a real use case behind them
+- thoughtful collaboration on AI tools, research systems, and internal software
+- product ideas with a real use case behind them
 - conversations with people who like building practical things
